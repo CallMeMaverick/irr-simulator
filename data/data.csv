@@ -1,0 +1,7 @@
+Instrument,Type,Maturity (years),Amount,Rate
+Loan1,Asset,1,1000000,0.03
+Loan2,Asset,3,500000,0.04
+Loan3,Asset,5,250000,0.045
+Deposit1,Liability,1,800000,0.015
+Deposit2,Liability,2,300000,0.02
+Bond1,Liability,5,200000,0.025
